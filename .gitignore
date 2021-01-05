@@ -1,0 +1,5 @@
+# Project exclude paths
+/Composite/target/
+/Factory/target/
+/Singleton/target/
+/WeatherStation/target/
